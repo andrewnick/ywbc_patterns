@@ -1,6 +1,6 @@
 *{
 	box-sizing: border-box;
-	border:1px solid black;
+	/*border:1px solid black;*/
 }
 
 body{
@@ -34,7 +34,6 @@ main {
 .pcolor__text_verical_center{
 	vertical-align: middle;
 	line-height: normal;
-	border: 1px solid black;
 }
 
 .orange {
